@@ -79,13 +79,16 @@ cors.setInitParameter("allowedMethods", "OPTIONS,GET,PUT,POST,DELETE,HEAD");
 
 ## Using Postman 
 ![image](https://user-images.githubusercontent.com/62707309/143731067-efed4905-de65-421f-9073-3a44ff7b041b.png)
+
+
 API side message:
 ![image](https://user-images.githubusercontent.com/62707309/143731165-a0c76b41-932a-4676-aa19-d5e407ae484d.png)
 
 
 
 ## Using React Web app
-![image](https://user-images.githubusercontent.com/62707309/143731126-3f0219e8-5ce7-4522-9043-96c7c222dd5b.png)
+![image](https://user-images.githubusercontent.com/62707309/143731297-dcf29417-fcd4-4177-a90d-e3cc7e4a8f5a.png)
+
 API side message:
 ![image](https://user-images.githubusercontent.com/62707309/143731153-c703752f-9587-4024-a360-bac1403308b9.png)
 
