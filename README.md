@@ -1,6 +1,8 @@
-# REST web service using Dropwizard
+# REST web service using Dropwizard along with UI interface in React
+![image](https://user-images.githubusercontent.com/62707309/143731209-32ffcbce-e848-400c-87c9-85a4bf736bb6.png)
 
 
+### Functionality
 The web service takes in a numerical value between 1 to 100, and returns the Fibonacci sequence, as well as a sequence that is sorted using the following conditions:
 * Even numbers first, in descending order
 * Odd numbers, in descending order
